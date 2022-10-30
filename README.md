@@ -1,7 +1,7 @@
 # przydatne_linki
 Przydatne
   
-WYŚWIETLACZE
+WYŚWIETLACZE  
 https://www.youtube.com/channel/UCMS7Tut0pEKwENlmY2HOOfg  
 https://www.youtube.com/user/cbm80amiga/videos  
 https://www.youtube.com/c/UniBusterPL/videos  
@@ -16,7 +16,7 @@ LUTOWANIE
 https://www.youtube.com/c/Androkavo/videos  
 https://www.youtube.com/channel/UCw4EJfQf0KJXCyQ5qiNlcUg/videos  
   
-ASSEMBLER
+ASSEMBLER  
 https://www.youtube.com/channel/UCY0sQ9hpSR6yZobt1qOv6DA/videos  
   
 MASZYNA STANÓW  

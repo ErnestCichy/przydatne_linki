@@ -1,7 +1,7 @@
 # przydatne_linki
 Przydatne
   
-FILMY OD ST (MOOC)
+FILMY OD ST (MOOC)  
 https://www.youtube.com/watch?v=sQCqVBuq-gA&list=PLnMKNibPkDnGtuIl5v0CvC81Am7SKpj02&index=1  
 https://www.youtube.com/watch?v=gL8OoS9E1rw&list=PLnMKNibPkDnFCosVVv98U5dCulE6T3Iy8  
 https://www.youtube.com/watch?v=YFIvJVsvIsE&list=PLnMKNibPkDnHIrq5BICcFhLsmJFI_ytvE  
